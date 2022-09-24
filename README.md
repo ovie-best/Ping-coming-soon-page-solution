@@ -15,7 +15,6 @@ A solution to the Ping Landing page coding challenge from Frontend Mentor with c
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -37,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View my solution on frontend mentor]( https://www.frontendmentor.io/solutions/ping-landing-page-with-client-side-email-validation-with-regex-in-js-5d87XB5UKm)
+- Live Site URL: [View my live project on vercel](https://ping-coming-soon-page-solution-le9w.vercel.app/)
 
 ## My process
 
@@ -96,7 +95,7 @@ I will practice more of Javascript form validation, not only with the email, but
 
 ### Useful resources
 
-- [Stack Overflow](https://www.example.com) - This helped me in getiing the proper code for the implementation of the email validation using regex. I really liked this pattern and will use it going forward.
+- [Stack Overflow](https://stackoverflow.com/questions/201323/how-can-i-validate-an-email-address-using-a-regular-expression) - This helped me in getiing the proper code for the implementation of the email validation using regex. I really liked this pattern and will use it going forward.
 
 
 ## Author
